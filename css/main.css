@@ -1,1 +1,14 @@
-font-family: 'Rubik', sans-serif;
+:root {
+  font-family: "Rubik", sans-serif;
+}
+.logo-header {
+    width: 155px;
+    display: flex;
+}
+.menu-nav {
+}
+.Title {
+  width: 100%;
+  background: #3cdbc0;
+  font-size: 30px;
+}
